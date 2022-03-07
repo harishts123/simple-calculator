@@ -14,7 +14,7 @@ public class Calculate {
 		int y=40;
 		System.out.println(add(x,y));
 		System.out.println(subtract(x,y));
-		//testing
+		
 	}
 
 }
